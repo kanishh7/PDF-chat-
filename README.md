@@ -1,2 +1,2 @@
-# PDF-chat-
+# PDF-chat
 repo for pdf chat 
